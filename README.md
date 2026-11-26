@@ -1,6 +1,6 @@
 # Hi, I'm Siddharth Tripathi
 
-Software engineer focused on AI/ML and backend systems, based in Bhopal, India.
+Software engineer focused on AI/ML and backend systems, India
 
 ## What I work on
 
