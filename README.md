@@ -22,6 +22,7 @@ Software engineer focused on AI/ML and backend systems, based in Bhopal, India.
 
 - SAP Certified Joule Studio Developer (C_JSD)
 - SAP Certified Generative AI Developer (C_AIG)
+- Gen AI certification, Kaggle (2025)
 
 ## Achievements
 
